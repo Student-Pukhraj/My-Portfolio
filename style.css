@@ -157,7 +157,6 @@ span {
 .img-about img {
     position: relative;
     width: 400px;
-    box-shadow: 0 0 26px orangered,0 0 26px orangered;
     border-radius: 37%;
 }
 
@@ -226,9 +225,8 @@ span {
 }
 
 .footer .social a {
-    font-size: 24px;
+    font-size: 30px;
     color: white;
-    border: 2px solid orangered;
     width: 40px;
     height: 40px;
     line-height: 42px;
@@ -236,14 +234,11 @@ span {
     text-align: center;
     border-radius: 45%;
     margin: 0 8px;
-    box-shadow: inset 0 0 10px orangered,0 0 10px orangered;
     transition: 0.3s ease;
 }
 
 .footer .social a:hover {
     transform: scale(1.2) translateY(-10px);
-    color: orangered;
-    border: 2px solid orangered;
 }
 
 .footer ul {
